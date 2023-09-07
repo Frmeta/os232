@@ -11,3 +11,10 @@ ZCZC W00 60 L09 Weekly Assignments
 ZCZC W00 60 L10 Assignment #00
 ZCZC W00 30 L31 Install virtual box & debian
 ZCZC W00 30 L32 Watching OS related Youtube videos
+
+ZCZC W01 120 L11 Assignment #01
+ZCZC W01 30 L01 Scele related
+ZCZC W01 20 L05 Studying for quiz
+ZCZC W01 30 L31 VirtualBox: Installing GNU/Linux, etc.
+ZCZC W01 5 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 5 L40 TXT/ related in general
