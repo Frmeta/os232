@@ -4,20 +4,21 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://www.os-book.com/OS10/)<br>
+1. [OS E-Book](https://www.os-book.com/OS10/)<br>
 Buku materi ajar OS. Berisi lebih dari 1200 halaman.
 
-2. [Two](https://osp4diss.vlsm.org/Welcome2GNULinux.html)<br>
+2. [Welcome to Linux](https://osp4diss.vlsm.org/Welcome2GNULinux.html)<br>
 Link disediakan oleh Fasilkom UI untuk belajar Introduction to GNU/Linux.
 Berisi basic linux commands, crash course 7+ jam, vim 
 
-3. [Three](https://os.vlsm.org/#idx01)<br>
+3. [Fasilkom UI OS Website](https://os.vlsm.org/#idx01)<br>
 Website utama OS yang disediakan Fasilkom UI. Berisi materi dan tugas.
 
-4. [Four](https://osp4diss.vlsm.org/W01-02.html)<br>
+4. [Week01 Reading Assignment](https://osp4diss.vlsm.org/W01-02.html)<br>
 Reading assignment di Week01. Berisi banyak link sumber belajar.
 
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
+5. [Cyber security Full Course for Beginner](https://www.youtube.com/watch?v=U_P23SqJaDc&feature=youtu.be)<br>
+Youtube video berjudul "Cyber Security Full Course for Beginner". Durasi video 4 jam berisi introduction ke Cyber Security.
 
 6. [Six](https://en.wikipedia.org/wiki/6)<br>
 
