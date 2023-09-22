@@ -20,7 +20,8 @@ Reading assignment di Week01. Berisi banyak link sumber belajar.
 5. [Cyber security Full Course for Beginner](https://www.youtube.com/watch?v=U_P23SqJaDc&feature=youtu.be)<br>
 Youtube video berjudul "Cyber Security Full Course for Beginner". Durasi video 4 jam berisi introduction ke Cyber Security.
 
-6. [Six](https://en.wikipedia.org/wiki/6)<br>
+6. [Slides dari OS-Ebook](https://www.os-book.com/OS10/slide-dir/)<br>
+Kumpulan file pptx yang dapat didownload. Berisi rangkuman dari buku materi ajar OS pada nomor 1.
 
 7. [Seven](https://en.wikipedia.org/wiki/7)<br>
 
