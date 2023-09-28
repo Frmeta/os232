@@ -23,7 +23,8 @@ Youtube video berjudul "Cyber Security Full Course for Beginner". Durasi video 4
 6. [Slides dari OS-Ebook](https://www.os-book.com/OS10/slide-dir/)<br>
 Kumpulan file pptx yang dapat didownload. Berisi rangkuman dari buku materi ajar OS pada nomor 1.
 
-7. [Seven](https://en.wikipedia.org/wiki/7)<br>
+7. [Github os2xx/os](https://github.com/os2xx/os)<br>
+Website Github os2xx/os yang berisi contoh file Demo dengan bahasa C. Terdiri dari banyak folder dari WEEK00 sampai WEEK10.
 
 8. [Eight](https://en.wikipedia.org/wiki/8)<br>
 

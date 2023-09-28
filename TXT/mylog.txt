@@ -1,6 +1,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W04 60 L14 Assignment #03
+ZCZC W04 4 L03 Github and git related, including commit, push, pull
+ZCZC W04 60 L05 Quiz related including studying
+ZCZC W04 600 L70 Studying for other courses
 ZCZC W03 190 L13 Assignment #03
 ZCZC W03 40 L05 Quiz related including studying
 ZCZC W03 50 L01 Scele related
