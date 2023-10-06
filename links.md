@@ -26,11 +26,13 @@ Kumpulan file pptx yang dapat didownload. Berisi rangkuman dari buku materi ajar
 7. [Github os2xx/os](https://github.com/os2xx/os)<br>
 Website Github os2xx/os yang berisi contoh file Demo dengan bahasa C. Terdiri dari banyak folder dari WEEK00 sampai WEEK10.
 
-8. [Eight](https://en.wikipedia.org/wiki/8)<br>
+8. [Virtual Memory Slides](https://os.vlsm.org/Slides/os05.pdf)<br>
+Slides tentang Virtual Memory. Berisi 17 slides.
 
-9. [Nine](https://en.wikipedia.org/wiki/9)<br>
+9. [Virtual Memory by GeeksforGeeks](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Penjelasan tentang Memory. Diambil dari GeeksForGeeks.
 
-10. [Ten](https://en.wikipedia.org/wiki/10)<br>
-
+10. [Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)<br>
+Berisi penjelasan Inter Process Communication dalam shared memory dan contoh programdengan bahasa C. Diambil dari TutorialSpoint.
 <br>
 <hr>
