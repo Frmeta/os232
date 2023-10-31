@@ -34,5 +34,11 @@ Penjelasan tentang Memory. Diambil dari GeeksForGeeks.
 
 10. [Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)<br>
 Berisi penjelasan Inter Process Communication dalam shared memory dan contoh programdengan bahasa C. Diambil dari TutorialSpoint.
+
+11. [Fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Berisi penjelasan sintaks kode Fork() pada bahasa C. Disertai contoh-contoh yang lengkap.
+
+12 [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+Berisi penjelasana apa itu thread di dalam OS, manfaat multi-threading, synchronisation mechanisms, dan Deadlocks. Selain itu juga berisi user dan Kernel threads yang memiliki relasi one-to-one, many-to-one, dan many-to-many.
 <br>
 <hr>
