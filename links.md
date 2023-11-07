@@ -38,7 +38,11 @@ Berisi penjelasan Inter Process Communication dalam shared memory dan contoh pro
 11. [Fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 Berisi penjelasan sintaks kode Fork() pada bahasa C. Disertai contoh-contoh yang lengkap.
 
-12 [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+12. [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
 Berisi penjelasana apa itu thread di dalam OS, manfaat multi-threading, synchronisation mechanisms, dan Deadlocks. Selain itu juga berisi user dan Kernel threads yang memiliki relasi one-to-one, many-to-one, dan many-to-many.
+
+13. [Synchronization and Deadlocks](https://people.cs.pitt.edu/~aus/cs449/ts-lecture19.pdf)<br>
+Powerpoint berisi 23 slides. Berisi penjelasan tentang Threads, Critical Sections, Synchronization, Deadlock, semaphores.
+ 
 <br>
 <hr>
