@@ -44,5 +44,13 @@ Berisi penjelasana apa itu thread di dalam OS, manfaat multi-threading, synchron
 13. [Synchronization and Deadlocks](https://people.cs.pitt.edu/~aus/cs449/ts-lecture19.pdf)<br>
 Powerpoint berisi 23 slides. Berisi penjelasan tentang Threads, Critical Sections, Synchronization, Deadlock, semaphores.
  
+14. [Non-official LFS Chapter 1-5 Guide](https://riorio805.github.io/os232/NOTES/lfs1-5.html)
+Website buatan salah satu mahasiswa OS berupa ringkasan dari yang perlu dilakukan dalam mengimplementasikan Linux From Scratch Chapter 1-5.
+
+15. [Official LFS Guide](https://www.linuxfromscratch.org/)
+Website resmi yang berisi penjelasan lengkap tentang Linux From Scratch. Termasuk tujuan, manfaat, dan tutorial mengimplementasikannya.
+
+16. [LFS Youtube Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)
+Playlist Youtube tentang tutorial membangun Linux From Scratch berisi 18 videodari chapter 1-11. Tutorial ini mengikuti buku The Linux From Scratch version 12.0 Book. Video dibuat oleh Kernotex.
 <br>
 <hr>
